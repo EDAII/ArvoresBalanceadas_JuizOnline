@@ -1,4 +1,4 @@
-# Ordenação LeetCode
+# Árvores LeetCode
 Repositório com a entrega 3, Árvores balanceadas.
 
 ## Alunos
