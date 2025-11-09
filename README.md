@@ -20,7 +20,7 @@ Tabela com as questões.
 
 | Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                  | Solução comentada                               |
 |------------------------------------------------------------------------------------------|-------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
-| - | Difícil | - | -         | -      |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Difícil | AVL |  [295.py](questions/leetcode_295/295.py)          | [295.md](questions/leetcode_295/295.md)      |
 
 ## Gravação
 
