@@ -28,7 +28,7 @@ Tabela com as questões.
 
 ## Gravação
 
-Assista ao vídeo: 
+Assista ao vídeo: https://youtu.be/HcWNA_zh52M
 
 
 ## Instalação
